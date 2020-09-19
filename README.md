@@ -1,6 +1,13 @@
-### Clicking... Double clicking... :computer:
+<!-- ### Clicking... Double clicking... :computer: -->
 
-![clicking..double clicking..](giphy.gif)
+<!-- ![clicking..double clicking..](giphy.gif) -->
+
+<p>Clicking... Double clicking... &#128187;</p>
+
+<p align="center">
+  <h1>
+  <img src="https://github.com/Alexandru-Dumitru/alexandru-dumitru/blob/master/giphy.gif?raw=true"/>
+</p>
 <!--
 **Alexandru-Dumitru/alexandru-dumitru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
