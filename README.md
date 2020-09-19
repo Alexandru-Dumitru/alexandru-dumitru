@@ -2,7 +2,7 @@
 
 <!-- ![clicking..double clicking..](giphy.gif) -->
 
-<p>Clicking... Double clicking... &#128187;</p>
+<p align="center">Clicking... Double clicking... &#128187;</p>
 
 <p align="center">
   <h1>
