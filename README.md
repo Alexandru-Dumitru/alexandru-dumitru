@@ -5,7 +5,6 @@
 <p align="center">Clicking... Double clicking... &#128187;</p>
 
 <p align="center">
-  <h1>
   <img src="https://github.com/Alexandru-Dumitru/alexandru-dumitru/blob/master/giphy.gif?raw=true"/>
 </p>
 <!--
